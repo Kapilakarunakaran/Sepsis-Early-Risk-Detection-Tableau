@@ -1,11 +1,10 @@
 # 🩺 Sepsis Early Risk Detection
 
-> 📊 End-to-end healthcare analytics solution leveraging **Python, SQL, and Tableau** to analyze **1.5M+ clinical records** from **40,336 ICU patients**, enabling early sepsis risk identification, organ dysfunction monitoring, and interactive clinical decision support.
+> 📊 Interactive Tableau storyboard analyzing **1.5M+ clinical records** from **40,336 ICU patients** to identify early sepsis risk, monitor organ dysfunction, and support clinical decision-making through data visualization.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-blue)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Clinical-success)
 
 ---
 
@@ -14,11 +13,12 @@
 | Category | Details |
 |----------|----------|
 | **Domain** | Healthcare Analytics |
-| **Tools** | Python, SQL, Tableau |
+| **Tool** | Tableau Desktop |
 | **Dataset** | MIMIC-IV ICU Dataset |
-| **Project Type** | Clinical Analytics & Decision Support |
-| **Focus Areas** | Sepsis Detection, Organ Dysfunction, Biomarker Analysis |
-| **Skills** | EDA, SQL, Tableau, Healthcare Analytics, Clinical Storytelling |
+| **Project Type** | Interactive Clinical Storyboard |
+| **Dashboards** | 12+ Interactive Dashboards |
+| **Focus Areas** | Sepsis Detection, Organ Dysfunction, Biomarker Analysis, Clinical Decision Support |
+| **Skills** | Data Visualization, Dashboard Design, Clinical Analytics, Storytelling |
 
 ---
 
@@ -33,7 +33,6 @@
 | 🩺 Organ systems monitored | **4** |
 | 🧪 Clinical scoring systems | **SOFA, SIRS, APACHE II, MODS** |
 | 🔬 Biomarkers analyzed | **15+** |
-| 📈 Early risk detection improvement | **↑ 60%** |
 | 🗂 Clinical coding standards | **ICD, SNOMED, LOINC** |
 | 🔒 Data governance | **HIPAA-compliant** |
 
@@ -41,45 +40,44 @@
 
 # 📖 Project Overview
 
-Sepsis is one of the leading causes of mortality among critically ill patients, where early diagnosis is essential for improving patient outcomes.
+Sepsis is one of the leading causes of mortality among critically ill patients, where timely diagnosis and intervention are essential for improving patient outcomes.
 
-This project analyzes over **1.5 million clinical observations** collected from **40,336 ICU patients** to identify early indicators of sepsis progression. Using Python for data preparation, SQL for clinical data analysis, and Tableau for interactive visualization, the solution transforms complex healthcare data into an intuitive clinical decision-support dashboard.
+This project transforms over **1.5 million clinical observations** from **40,336 ICU patients** into an interactive Tableau storyboard that helps clinicians monitor disease progression, evaluate organ dysfunction, analyze laboratory biomarkers, and identify high-risk patients through intuitive visual analytics.
 
-The storyboard enables healthcare professionals to monitor patient deterioration, evaluate organ dysfunction, analyze laboratory biomarkers, and identify high-risk patients through interactive dashboards.
+The storyboard combines patient demographics, clinical scores, laboratory measurements, physiological indicators, and organ-specific dashboards into a unified clinical decision-support solution.
 
 ---
 
 # 🎯 Business Objectives
 
-This solution helps clinicians and healthcare analysts answer key questions such as:
+This solution helps healthcare professionals answer key questions such as:
 
 - Which patients are at the highest risk of developing sepsis?
 - How does organ dysfunction progress during ICU admission?
 - Which biomarkers indicate worsening patient conditions?
 - How do SOFA and SIRS scores relate to disease severity?
-- Which physiological measurements require immediate intervention?
+- Which physiological measurements require immediate clinical attention?
 - Which organ systems are most affected during sepsis progression?
-- How can clinical dashboards support earlier diagnosis and treatment?
 
 ---
 
-# 📊 Dashboard Sections
+# 📊 Storyboard Sections
 
 ## 👥 Patient Demographics
 
 - Age Distribution
 - Gender Analysis
 - ICU Admission Overview
-- Patient Population Breakdown
+- Patient Characteristics
 
 ---
 
 ## 🧪 Biomarker Analysis
 
-- Laboratory Biomarkers
-- Infection Indicators
-- Clinical Trend Analysis
-- Risk Threshold Monitoring
+- Infection Biomarkers
+- Laboratory Trends
+- Clinical Threshold Monitoring
+- Risk Indicators
 
 ---
 
@@ -104,10 +102,10 @@ This solution helps clinicians and healthcare analysts answer key questions such
 
 Dedicated dashboards monitoring:
 
-- Heart
-- Lung
-- Liver
-- Kidney
+- Heart Function
+- Lung Function
+- Liver Function
+- Kidney Function
 
 ---
 
@@ -139,45 +137,23 @@ Dedicated dashboards monitoring:
 
 # 💡 Key Insights
 
-### 🩺 Early Risk Identification
-
-- Analyzed over **1.5 million clinical observations** to identify patterns associated with early sepsis progression.
-
----
-
-### 🧪 Biomarker Trends
-
-- Biomarker analysis revealed strong relationships between infection markers and increasing disease severity.
-
----
-
-### ❤️ Organ Dysfunction
-
-- Heart, lung, liver, and kidney function progressively deteriorated as clinical severity increased.
-
----
-
-### 📈 Clinical Scores
-
-- SOFA and SIRS scores showed clear associations with worsening patient outcomes and increasing organ dysfunction.
-
----
-
-### 🚨 High-Risk Patients
-
-- Interactive dashboards helped identify patients requiring immediate clinical intervention.
+- Analyzed **1.5M+ clinical observations** to identify early indicators of sepsis progression.
+- Compared **SOFA, SIRS, APACHE II, and MODS** scores to assess disease severity.
+- Visualized biomarker trends associated with worsening patient conditions.
+- Monitored dysfunction across the **heart, lung, liver, and kidney**.
+- Built an interactive clinical storyboard to support evidence-based patient monitoring.
 
 ---
 
 # 💼 Clinical Value
 
-This solution enables healthcare organizations to:
+This solution enables healthcare teams to:
 
 - Detect high-risk patients earlier.
-- Monitor organ dysfunction throughout ICU admission.
-- Improve clinical decision-making using interactive dashboards.
-- Support evidence-based treatment planning.
-- Transform complex healthcare data into actionable clinical insights.
+- Monitor organ dysfunction through interactive dashboards.
+- Evaluate disease progression using clinical scores and biomarkers.
+- Support evidence-based clinical decision-making.
+- Transform complex healthcare data into actionable insights.
 
 ---
 
@@ -185,25 +161,23 @@ This solution enables healthcare organizations to:
 
 | Category | Technologies |
 |----------|--------------|
-| **Programming** | Python |
-| **Database** | SQL |
-| **Visualization** | Tableau |
-| **Analytics** | Exploratory Data Analysis (EDA) |
+| **Visualization** | Tableau Desktop |
+| **Dashboard Design** | Interactive Storyboards |
+| **Analytics** | Healthcare Analytics |
+| **Clinical Metrics** | SOFA, SIRS, APACHE II, MODS |
 | **Healthcare Standards** | ICD, SNOMED, LOINC |
-| **Reporting** | Interactive Storyboards |
 
 ---
 
 # 📊 Skills Demonstrated
 
-| Analytics | Technical | Healthcare |
-|------------|-----------|------------|
-| Exploratory Data Analysis | Python | Sepsis Analytics |
-| Correlation Analysis | SQL | Clinical Decision Support |
-| Trend Analysis | Tableau | Organ Dysfunction Monitoring |
-| Healthcare KPI Development | Interactive Storyboards | Biomarker Analysis |
-| Clinical Data Visualization | Dashboard Design | Patient Risk Assessment |
-| Data Storytelling | Data Modeling | Clinical Outcome Analysis |
+| Analytics | Tableau | Healthcare |
+|------------|----------|------------|
+| Clinical Data Analysis | Interactive Dashboards | Sepsis Analytics |
+| Biomarker Analysis | Storytelling | Organ Dysfunction |
+| Trend Analysis | Dashboard Design | Clinical Decision Support |
+| KPI Development | Dashboard Actions | Patient Risk Assessment |
+| Data Visualization | Filters & Parameters | Clinical Outcome Analysis |
 
 ---
 
@@ -211,20 +185,20 @@ This solution enables healthcare organizations to:
 
 | File | Description |
 |------|-------------|
-| 📊 Sepsis Storyboard Final.twbx | Interactive Tableau workbook |
+| 📊 Sepsis Storyboard Final.twbx | Complete Tableau storyboard |
 | 🖼 Dashboard Screenshots | Clinical dashboard previews |
-| 📖 Tableau Story | End-to-end clinical storyboard |
+| 📖 Interactive Story | End-to-end patient journey |
 
 ---
 
 # ⚙️ Technical Highlights
 
-- Processed and analyzed **1.5M+ clinical records** from **40,336 ICU patients**.
-- Performed exploratory data analysis, correlation analysis, and biomarker trend analysis across **40+ clinical variables**.
-- Built **12+ interactive Tableau dashboards** covering demographics, biomarkers, SOFA, SIRS, APACHE II, MODS, septic shock, ABG analysis, and organ dysfunction.
-- Monitored **4 major organ systems** to evaluate disease progression.
-- Applied **ICD, SNOMED, and LOINC** coding standards for standardized clinical reporting.
-- Developed an end-to-end Tableau Story to support healthcare professionals in monitoring disease progression and patient outcomes.
+- Designed an end-to-end Tableau storyboard covering the complete sepsis patient journey.
+- Built **12+ interactive dashboards** for demographics, biomarkers, SOFA, SIRS, organ dysfunction, ABG analysis, MODS, and septic shock.
+- Visualized **1.5M+ clinical records** from **40,336 ICU patients** using interactive dashboards.
+- Applied healthcare coding standards including **ICD, SNOMED, and LOINC** for standardized reporting.
+- Integrated multiple clinical indicators into a unified decision-support solution.
+- Delivered executive-ready dashboards that simplify complex clinical data through effective storytelling.
 
 ---
 
@@ -232,12 +206,12 @@ This solution enables healthcare organizations to:
 
 Through this project, I strengthened my expertise in:
 
-- Healthcare analytics
-- Clinical data visualization
+- Healthcare data visualization
 - Interactive Tableau storytelling
-- SQL for healthcare datasets
+- Clinical dashboard design
 - Biomarker and organ function analysis
-- Clinical dashboard development
+- Healthcare KPI reporting
+- Clinical decision-support analytics
 
 ---
 
@@ -245,7 +219,7 @@ Through this project, I strengthened my expertise in:
 
 ## Kapila Karunakaran
 
-Data Analyst passionate about building analytics solutions using **Power BI, Tableau, SQL, PostgreSQL, Python, and Excel**.
+Data Analyst passionate about building interactive analytics solutions using **Tableau, Power BI, SQL, PostgreSQL, Python, and Excel**.
 
 📧 **Email:** kapilavisakh2017@gmail.com
 
@@ -255,4 +229,4 @@ Data Analyst passionate about building analytics solutions using **Power BI, Tab
 
 ---
 
-⭐ **If you found this project helpful, consider giving this repository a Star!**
+⭐ If you found this project helpful, consider giving this repository a **Star**!
