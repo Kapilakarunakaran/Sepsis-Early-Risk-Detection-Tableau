@@ -1,6 +1,8 @@
 # 🩺 Sepsis Early Risk Detection 
 
-> 📊 Interactive Tableau storyboard analyzing **1.5M+ clinical records** from **40,336 ICU patients** to identify early sepsis risk, monitor organ dysfunction, and support clinical decision-making through data visualization.
+> 📊 Interactive Tableau storyboard analyzing **1.5M+ clinical records** from **40,336 ICU patients** to identify early sepsis risk,
+> monitor organ dysfunction, and support clinical decision-making through data visualization.
+
 > Story Board link :https://public.tableau.com/app/profile/kapila.karunakaran/vizzes
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
